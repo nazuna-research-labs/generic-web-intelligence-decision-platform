@@ -1,0 +1,95 @@
+VIEW, EVALUATE, AND SHARE ONLY LICENSE
+Version 1.0
+
+Copyright (c) 2026. All rights reserved.
+
+This is a custom restrictive license. It is not an open-source license, a free-software license, or a source-available license that grants rights beyond those expressly stated below.
+
+1. Definitions
+
+"Materials" means the original materials of the Generic Web Intelligence & Decision Platform that are distributed together with, or expressly made subject to, this License, including documentation, images, specifications, source code, configuration examples, schemas, scripts, and other project-authored content.
+
+"Licensor" means the copyright holder or holders of the applicable Materials.
+
+"Share" means to provide or transmit an exact, unmodified copy of the Materials, in whole or in part, to another person without charge, while preserving all copyright, attribution, proprietary, license, and notice information applicable to the shared Materials.
+
+2. Limited Permission
+
+Subject to all terms of this License, permission is granted solely to:
+
+- access, download, store, view, read, and inspect the Materials;
+- evaluate the Materials by human review for their content, quality, design, architecture, documentation, technical characteristics, or suitability; and
+- Share the Materials as defined in Section 1.
+
+A recipient of Shared Materials receives only the same limited permissions stated in this License.
+
+3. Sharing Conditions
+
+Sharing is permitted only if all of the following conditions are satisfied:
+
+- the shared Materials are not modified, adapted, translated, transformed, or represented as original work of the person sharing them;
+- the applicable LICENSE, NOTICE, attribution, copyright, and proprietary notices are preserved and made available with the shared Materials;
+- no fee, sale price, subscription charge, access charge, or other consideration is imposed for the Materials themselves;
+- no additional license, restriction, or term is imposed that purports to alter the rights or restrictions of this License; and
+- the sharing does not imply endorsement, sponsorship, partnership, certification, authorization, or affiliation by the Licensor.
+
+Linking to an official publication or repository containing the Materials is permitted.
+
+4. No Other Rights Granted
+
+Except for the limited permissions to view, evaluate, and Share expressly stated above, no rights are granted.
+
+Without prior written permission from the Licensor, you may not, in whole or in part:
+
+- run, execute, compile, deploy, host, operate, or provide the Materials as a service;
+- use the Materials for production, operational, research, development, educational, consulting, competitive, commercial, internal business, or other practical purposes;
+- modify, adapt, translate, transform, annotate for redistribution, or create derivative works based on the Materials;
+- implement, reproduce, emulate, incorporate, port, or deploy any code, architecture, design, workflow, method, process, specification, schema, algorithm, interface, or other element described or embodied in the Materials;
+- copy or extract any portion of the Materials for reuse in another project, product, service, publication, system, specification, dataset, or work, except for exact unmodified Sharing permitted by this License;
+- sell, sublicense, rent, lease, monetize, commercially distribute, or include the Materials in any paid product, service, bundle, course, publication, or offering;
+- use the Materials, or any portion of them, to train, fine-tune, distill, align, benchmark, evaluate, test, improve, or otherwise develop any machine-learning model, artificial-intelligence system, dataset, product, or service;
+- scrape, mine, extract, index, vectorize, embed, ingest, or include the Materials in any dataset, corpus, search index, retrieval system, knowledge base, automated processing pipeline, or similar collection, except to the minimum extent technically necessary for ordinary access to an official publication;
+- remove, alter, obscure, or misrepresent any copyright, authorship, attribution, proprietary, license, or rights notice; or
+- use project names, marks, logos, or identifying materials in a manner that suggests endorsement, sponsorship, partnership, certification, authorization, or affiliation.
+
+5. Evaluation Limitation
+
+"Evaluate" under this License means human review and assessment of the Materials.
+
+Evaluation does not include execution, deployment, implementation, incorporation, modification, automated ingestion, model training, machine benchmarking, product testing using the Materials, or any other practical use not expressly permitted by this License.
+
+6. No Implied License
+
+No license or right is granted by implication, estoppel, exhaustion, waiver, or otherwise under any copyright, patent, trademark, trade-secret, database, publicity, privacy, or other intellectual-property or proprietary right.
+
+7. No Patent License
+
+Nothing in this License grants any right to practice, implement, make, have made, use, sell, offer for sale, import, or otherwise exploit any invention, method, system, architecture, process, algorithm, or technical concept disclosed or embodied in the Materials.
+
+8. Third-Party Materials
+
+This License applies only to original Materials for which the Licensor has authority to grant the permissions stated here.
+
+Third-party software, libraries, services, APIs, datasets, trademarks, documentation, or other third-party materials remain subject to their respective owners' rights, licenses, and terms. This License does not expand, replace, or override any third-party license or condition.
+
+9. Public Availability Does Not Grant Additional Rights
+
+Making the Materials publicly accessible does not waive or transfer any right and does not authorize any activity beyond the limited permissions expressly granted by this License.
+
+10. Termination
+
+Any permission granted by this License terminates automatically upon violation of any term of this License. Upon termination, all activities relying on this License must cease immediately. Any copies retained solely because applicable law independently requires retention remain subject to all restrictions of this License.
+
+11. No Warranty
+
+THE MATERIALS ARE PROVIDED "AS IS" AND "AS AVAILABLE", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, ACCURACY, COMPLETENESS, NON-INFRINGEMENT, COMPATIBILITY, SECURITY, OR AVAILABILITY.
+
+12. Limitation of Liability
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE LICENSOR SHALL NOT BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, CONSEQUENTIAL, OR OTHER DAMAGES ARISING FROM OR RELATING TO THE MATERIALS, THEIR AVAILABILITY, THEIR EVALUATION, THEIR SHARING, OR ANY RELIANCE ON THEM.
+
+13. Reservation of Rights
+
+All rights not expressly granted by this License are reserved.
+
+Any permission beyond viewing, evaluating, and Sharing requires prior written authorization from the Licensor that identifies the permitted Materials, recipient, purpose, scope, and any applicable conditions.
